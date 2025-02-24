@@ -1,1 +1,1 @@
-A basic curriculum website. https://github.com/lizewskyy/Workspace/tree/main/Single-Page-HTML5-CV-Project.git%5D
+A basic curriculum website. https://roadmap.sh/projects/single-page-cv
